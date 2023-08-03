@@ -4,6 +4,9 @@ node_modules
 # Build files
 dist/
 
+#ENV
+.env
+
 # lock files
 # yarn.lock
 package-lock.json
